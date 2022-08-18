@@ -5,7 +5,7 @@ Required OS and applications:
 
 Linux x64 (Not arm64)
 
-nasm compiler
+NASM assembler
 
 binutils package
 
