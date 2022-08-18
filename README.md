@@ -3,7 +3,7 @@ Hello World assembly code on 64bit Linux system
 
 Required OS and applications:
 
-Linux 64bit (Not aarch64)
+Linux x64 (Not arm64)
 
 nasm compiler
 
